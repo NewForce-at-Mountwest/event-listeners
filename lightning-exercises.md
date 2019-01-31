@@ -12,7 +12,7 @@
 - Inside the event listener for your h1 element, add a line of code that will change the text color of the h1 element to red when you click on it 
 
 ## Lightning Exercise 4
-- Add a textarea elemen and a button with the text "Submit" to your HTML file
+- Add a textarea element and a button with the text "Submit" to your HTML file
 - Give the button an id
 - Add a click event listener to the submit button
 - When clicked, it should log the value of the textarea to the console

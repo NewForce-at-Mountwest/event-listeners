@@ -2,6 +2,15 @@
   background-color: lightblue;
 }
 
+/* .blog-post:hover{
+  background-color: lightblue;
+} */
+
+.red-text{
+  color: red;
+  font-size: 3em;
+}
+
 .dark-background{
   background-color: darkgray;
   color: whitesmoke;
